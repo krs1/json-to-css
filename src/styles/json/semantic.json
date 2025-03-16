@@ -1,0 +1,61 @@
+{
+  "text": {
+    "white": {
+      "value": "{color.gray.0}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "positive": {
+      "value": "{color.orange.50}",
+      "type": "color",
+      "prefix": "semantic"
+    }
+  },
+  "surface": {
+    "white": {
+      "value": "{color.gray.0}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "gray": {
+      "value": "{color.gray.50}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "errorSubtle": {
+      "value": "{color.orange.50}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "errorOrange": {
+      "value": "{color.orange.100}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "errorMessage":{
+      "value": "{color.red.50}"
+    }
+  },
+  "border": {
+    "primary": {
+      "value": "{color.gray.0}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "subtle": {
+      "value": "{color.gray.50}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "disabled": {
+      "value": "{color.orange.50}",
+      "type": "color",
+      "prefix": "semantic"
+    },
+    "error": {
+      "value": "{color.orange.100}",
+      "type": "color",
+      "prefix": "semantic"
+    }
+  }
+}

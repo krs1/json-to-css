@@ -1,0 +1,22 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-gray-0: #ffffff;
+  --color-gray-50: #f7f5f5;
+  --color-orange-50: #fff5f0;
+  --color-orange-100: #ffe3d6;
+  --color-red-50: #ff0000;
+  --text-white: var(--color-gray-0);
+  --text-positive: var(--color-orange-50);
+  --surface-white: var(--color-gray-0);
+  --surface-gray: var(--color-gray-50);
+  --surface-error-subtle: var(--color-orange-50);
+  --surface-error-orange: var(--color-orange-100);
+  --surface-error-message: var(--color-red-50);
+  --border-primary: var(--color-gray-0);
+  --border-subtle: var(--color-gray-50);
+  --border-disabled: var(--color-orange-50);
+  --border-error: var(--color-orange-100);
+}

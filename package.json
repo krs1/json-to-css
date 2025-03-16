@@ -1,0 +1,28 @@
+{
+  "name": "json-to-css",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "panda codegen &&  vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "prepare": "panda codegen",
+    "style:build": "style-dictionary build"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@pandacss/dev": "^0.53.1",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "globals": "^15.15.0",
+    "postcss": "^8.5.3",
+    "style-dictionary": "^4.3.3",
+    "typescript": "5.8.2",
+    "vite": "^6.2.0"
+  }
+}

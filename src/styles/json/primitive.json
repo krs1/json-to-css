@@ -1,0 +1,33 @@
+{
+  "color": {
+    "gray": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "prefix": "primitive"
+      },
+      "50": {
+        "value": "#f7f5f5",
+        "type": "color",
+        "prefix": "primitive"
+      }
+    },
+    "orange": {
+      "50": {
+        "value": "#fff5f0",
+        "type": "color",
+        "prefix": "primitive"
+      },
+      "100": {
+        "value": "#ffe3d6",
+        "type": "color",
+        "prefix": "primitive"
+      }
+    },
+    "red": {
+      "50":{
+        "value": "#ff0000"
+      }
+    }
+  }
+}

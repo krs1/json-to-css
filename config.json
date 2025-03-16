@@ -1,0 +1,17 @@
+{
+    "source": ["./src/styles/json/*.json"],
+    "platforms": {
+      "css": {
+        "transformGroup": "css",
+        "buildPath": "./src/styles/",
+        "files": [{
+          "destination": "variables.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }]
+      }
+    }
+  }
+  
