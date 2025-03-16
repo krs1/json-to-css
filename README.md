@@ -3,12 +3,12 @@
 
 `index.css` では `variables.css` をimportしているためグローバル変数として色定義ができる
 
-グローバル変数は
-color:'var(--surface-error-message)',
-のような感じで使えるが
-panda.config.tsで宣言すると
-color:'errorMessage',
-のような感じで使える
+グローバル変数は  
+color:'var(--surface-error-message)',  
+のような感じで使えるが  
+panda.config.tsで宣言すると  
+color:'errorMessage',  
+のような感じで使える  
 
 
 memo
